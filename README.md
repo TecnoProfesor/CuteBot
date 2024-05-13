@@ -8,6 +8,6 @@ El código del programa para descarga es "microbit-CuteBotGuiado.hex"
 ## Proyecto 2: CuteBot dibujante
 En este proyecto los alumnos han integrado dos servomotores en el robot con el fin de subir o bajar dos rotuladores y pintar según los movimientos del robot controlado por un joystick.
 
-El código del programa del CuteBot dibujante es "CuteBotDibujante.hex"
+El código del programa del CuteBot dibujante es "microbit-CuteBotDibujante.hex"
 
-El código del programa para el joystick es "JoystickBit.hex"
+El código del programa para el joystick es "microbit-JoystickBit.hex"
