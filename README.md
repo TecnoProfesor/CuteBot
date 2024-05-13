@@ -15,4 +15,4 @@ Para este proyecto los alumnos han diseñado e impreso distintas piezas con el f
 
 El código del programa para descarga es "microbit-CuteBotGuiado.hex"
 
-![](https://content.instructables.com/FEM/JEDH/LN61NMS1/FEMJEDHLN61NMS1.jpg)
+![FEMJEDHLN61NMS1](https://github.com/TecnoProfesor/CuteBot/assets/65020790/b1ae6c91-ea5e-4244-99cb-08eaf8157e86)
